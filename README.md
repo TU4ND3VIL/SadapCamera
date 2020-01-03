@@ -24,5 +24,6 @@ $ bash tu4nd3vil.sh
 # Jangan salah gunakan ya gan..
 
 Contac me : tu4nd3vil@gmail.com
+
 kalau ada kesalahan hubungi email di atas
 
